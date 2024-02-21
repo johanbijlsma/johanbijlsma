@@ -12,4 +12,3 @@ Skills: HTML, CSS, JavaScript, React, Vue, Svelte, Angular, JAMstack
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=johanbijlsma&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/johanbijlsma)  
